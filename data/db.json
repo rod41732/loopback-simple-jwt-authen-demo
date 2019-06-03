@@ -1,0 +1,11 @@
+{
+  "ids": {
+    "User": 3
+  },
+  "models": {
+    "User": {
+      "rod41732": "{\"id\":\"rod41732\",\"email\":\"rod8711@gmail.com\",\"password\":\"12345678\",\"age\":18,\"address\":\"4House\",\"fullName\":\"Rodchananat K\",\"gender\":\"male\"}",
+      "rod41732-2": "{\"id\":\"rod41732-2\",\"email\":\"rod8711-2@gmail.com\",\"password\":\"12345678\",\"age\":18,\"address\":\"4House\",\"fullName\":\"Rodchananat K\",\"gender\":\"male\"}"
+    }
+  }
+}
