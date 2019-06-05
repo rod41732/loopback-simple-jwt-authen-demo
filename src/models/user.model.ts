@@ -41,6 +41,10 @@ export class User extends Entity {
   })
   gender?: string;
 
+  @property({
+    type: 'string',
+  })
+  currentToken?: string;
 
   constructor(data?: Partial<User>) {
     super(data);
